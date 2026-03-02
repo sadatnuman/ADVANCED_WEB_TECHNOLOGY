@@ -1,0 +1,17 @@
+### GET ALL COURSES
+GET http://localhost:3000/course
+
+### GET COURSE BY ID
+GET http://localhost:3000/course/5
+
+### CREATE COURSE
+POST http://localhost:3000/course
+
+### UPDATE COURSE
+PUT http://localhost:3000/course/5
+
+### PATCH COURSE
+PATCH http://localhost:3000/course/5
+
+### DELETE COURSE
+DELETE http://localhost:3000/course/5
